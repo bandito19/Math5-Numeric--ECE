@@ -11,7 +11,7 @@ The date used in testing the porgram:
 | 3   | 5   |
 
 The output should be a straight line on the form of :
-     $`y = ax + b`$
+     $`\[ y = ax + b \]`$
         Where
                 a : the slope of the line
                 b : the y intercept
@@ -25,10 +25,10 @@ plt.ylabel('Y_values')
 plt.title('Scatter Plot of X and Y values')
 plt.show()
 ```
-# Which gives us the following graph:
+### Which gives us the following graph:
 ![Figure1](Figure_1.png)
 
-## Line plot:
+### Line plot:
 In order to plot the line we create a list of all the valued for x in a certain domain
 using 'numpy' module:
 ```
@@ -38,5 +38,5 @@ The the 'y' values are calculated using the straing line formula:
 ```
 y_l = a * x_l + b
 ```
-# After plotting the line we get this graph:
+### After plotting the line we get this graph:
 ![Figure2](Figure_2.png)

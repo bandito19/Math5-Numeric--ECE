@@ -27,3 +27,16 @@ plt.show()
 ```
 # Which gives us the following graph:
 ![Figure1](Figure_1.png)
+
+## Line plot:
+In order to plot the line we create a list of all the valued for x in a certain domain
+using 'numpy' module:
+```
+x_l = np.linspace(-1, 4, 400)
+```
+The the 'y' values are calculated using the straing line formula:
+```
+y_l = a * x_l + b
+```
+# After plotting the line we get this graph:
+![Figure2](Figure_2.png)

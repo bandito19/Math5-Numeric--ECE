@@ -11,7 +11,13 @@ The date used in testing the porgram:
 | 3   | 5   |
 
 The output should be a straight line on the form of :
-     $`\[ y = ax + b \]`$
+<div align="center">
+$$
+y = ax + b
+$$
+
+</div>
+
         Where
                 a : the slope of the line
                 b : the y intercept

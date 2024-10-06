@@ -12,7 +12,7 @@ The date used in testing the porgram:
 
 The output should be a straight line on the form of :
 <div align="center">
-$`\y = ax + b`$
+y = ax + b
 </div>
 
         Where

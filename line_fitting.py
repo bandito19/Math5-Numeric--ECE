@@ -37,7 +37,7 @@ b = ((sum(sq_x) * sum_y) - (sum_x * sum(xy))) / (n * sum(sq_x) - (sum_x * sum_x)
 print(f"y = {round(a,4)}x + {round(b,4)}")
 
 # plot 
-x_l = np.linspace(1, 4, 400)
+x_l = np.linspace(-1, 4, 400)
 y_l = a * x_l + b
 
 plt.scatter(x, y, s=15, label='Points', color='red')

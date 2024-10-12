@@ -37,7 +37,7 @@ using 'numpy' module:
 ```
 x_l = np.linspace(-1, 4, 400)
 ```
-The the 'y' values are calculated using the straing line formula:
+The'y' values are calculated using the straing line formula:
 ```
 y_l = a * x_l + b
 ```

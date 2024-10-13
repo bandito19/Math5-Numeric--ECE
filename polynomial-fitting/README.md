@@ -14,6 +14,7 @@ Where:
 - $A$ is the Vandermonde matrix, constructed from the *x* values.
 - $c$ = $[cm, c_{m-1},…,c_1,c_0]^T$
 - $y$ are the *y* data points.
+
 Now the system is a set of linear equations that can be solved
 to find coefficients $c$ that that minimize the sum of squared errors between the predicted values 
 $𝑝(𝑥_𝑖)$  and the observed values $𝑦_𝑖$.

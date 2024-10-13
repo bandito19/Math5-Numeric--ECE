@@ -67,4 +67,5 @@ plt.show()
 | 3   | 5.8 |
 
 **Figuer of results:**
+
 ![Figure1](Figure_1.png)

@@ -57,7 +57,7 @@ plt.show()
 ```
 
 ### results
-##### Data uesd in testing the porgram:
+**Data uesd in testing the porgram:**
 | x   | y   | 
 |-----|-----|
 | 1   | 1.41|
@@ -66,5 +66,5 @@ plt.show()
 | 2.5 | 4.16|
 | 3   | 5.8 |
 
-##### Figuer of results:
+**Figuer of results:**
 ![Figure1](Figure_1.png)

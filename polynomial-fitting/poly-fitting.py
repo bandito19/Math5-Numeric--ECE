@@ -11,8 +11,8 @@ y_points = input("Input Y_values seperated by a space: ")
 xs = x_points.split()
 ys = y_points.split()
 
-x = np.array([int(i) for i in xs])
-y = np.array([int(i) for i in ys])
+x = np.array([float(i) for i in xs])
+y = np.array([float(i) for i in ys])
 
 # Vandermonde Matrix of x data points
 A = np.vander(x, N + 1)

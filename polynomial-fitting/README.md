@@ -57,7 +57,7 @@ plt.show()
 ```
 
 ### results
-**Data uesd in testing the porgram:**
+**Data uesd in testing the program:**
 | x   | y   | 
 |-----|-----|
 | 1   | 1.41|

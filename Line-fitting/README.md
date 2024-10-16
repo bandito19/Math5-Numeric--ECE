@@ -11,13 +11,13 @@ The date used in testing the porgram:
 | 3   | 5   |
 
 The output should be a straight line on the form of :
-<div align="center">
+```math
 y = ax + b
-</div>
+```
 
-        Where
-                a : the slope of the line
-                b : the y intercept
+Where:
+        $a$ : the slope of the line.
+        $b$ : the y intercept.
 
 ## plot
 To plot the points i used 'matplotlib' python module.

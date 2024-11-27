@@ -14,9 +14,9 @@ def jacobi(A, b, x0, n_iterations):
     return x
 
 
-A = np.array([[5, 1, -2, 1], [1, 10, -1, 2], [1, -2, 8, -1], [1, -1, 1, 4]])
-b = np.array([5, 15, 20, 25])
+A = np.array([[5, -1, 3], [1, 5, -2], [2, -4, 10]])
+b = np.array([-2, 10, 6])
 x0 = np.zeros_like(b)
-solution = jacobi(A, b, x0, 11)
+solution = jacobi(A, b, x0,9)
 print(solution)
 

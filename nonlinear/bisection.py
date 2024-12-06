@@ -29,7 +29,7 @@ def root(a: float, b:float):
         else:
             root = xn
             break
-        
+
     return f"Root = {root:.5f}"
 
 print(root(0,1))

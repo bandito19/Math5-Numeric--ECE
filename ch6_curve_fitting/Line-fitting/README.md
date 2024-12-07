@@ -16,7 +16,9 @@ y = ax + b
 ```
 
 Where:
+
         $a$ : the slope of the line.
+        
         $b$ : the y intercept.
 
 ## plot

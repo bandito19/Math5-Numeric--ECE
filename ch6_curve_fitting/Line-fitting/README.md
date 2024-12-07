@@ -14,12 +14,9 @@ The output should be a straight line on the form of :
 ```math
 y = ax + b
 ```
+ $a$ : the slope of the line.
 
-Where:
-
-        $a$ : the slope of the line.
-        
-        $b$ : the y intercept.
+ $b$ : the y intercept.
 
 ## plot
 To plot the points i used 'matplotlib' python module.
